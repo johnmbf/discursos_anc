@@ -93,5 +93,3 @@ discursos_anc <- function(arquivo){
   
   discurso_todos
 }
-
-dados <- discursos_anc('janeiro_89.pdf')
